@@ -1,10 +1,10 @@
 {
     "2025-04": {
-        "files_converted": 33,
-        "failed_encodings": 3,
-        "total_space_saved_bytes": 3250747585,
-        "total_input_size_bytes": 4135885821,
-        "total_output_size_bytes": 885138236,
-        "total_encoding_time_seconds": 507.9035978317261
+        "files_converted": 0,
+        "failed_encodings": 0,
+        "total_space_saved_bytes": 0,
+        "total_input_size_bytes": 0,
+        "total_output_size_bytes": 0,
+        "total_encoding_time_seconds": 0
     }
 }
